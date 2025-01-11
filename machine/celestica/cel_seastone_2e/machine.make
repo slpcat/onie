@@ -27,6 +27,7 @@ VENDOR_ID = 12244
 # Add the onie-syseeprom command for this platform
 I2CTOOLS_ENABLE = yes
 I2CTOOLS_SYSEEPROM = no
+IPMITOOL_ENABLE = yes
 
 PARTED_ENABLE = yes
 

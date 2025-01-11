@@ -41,7 +41,7 @@ VENDOR_ID = 19621
 
 # Enable the i2ctools and the onie-syseeprom command for this platform
 I2CTOOLS_ENABLE = yes
-I2CTOOLS_SYSEEPROM = yes
+I2CTOOLS_SYSEEPROM = no
 IPMITOOL_ENABLE = yes
 
 # Console parameters

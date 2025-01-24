@@ -49,8 +49,10 @@ CONSOLE_SPEED = 115200
 CONSOLE_DEV = 0
 
 PARTED_ENABLE = yes
+
 #Enable UEFI support
 UEFI_ENABLE = yes
+PXE_EFI64_ENABLE = yes
 
 # Set Linux kernel version
 LINUX_VERSION           = 5.4

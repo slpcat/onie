@@ -42,11 +42,11 @@ VENDOR_ID = 19621
 # Enable the i2ctools and the onie-syseeprom command for this platform
 I2CTOOLS_ENABLE = yes
 I2CTOOLS_SYSEEPROM = no
-IPMITOOL_ENABLE = yes
+IPMITOOL_ENABLE = no
 
 # Console parameters
 CONSOLE_SPEED = 115200
-CONSOLE_DEV = 1
+CONSOLE_DEV = 0
 
 PARTED_ENABLE = yes
 #Enable UEFI support
